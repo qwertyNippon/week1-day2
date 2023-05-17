@@ -1,0 +1,33 @@
+.navbar{
+    display: flex;
+    padding: 25px;
+    background-color: black;
+    /* max-width: 100%; */
+    
+}
+
+#Theater{
+    display: flex;
+    justify-content: left;
+    padding-left: 50px;
+}
+
+#leftMost{
+    display: flex;
+    padding-left: 250px;
+}
+
+.navbar a{
+    display: flex;
+    position: relative;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.mainPicCon{
+}
+
+.mainPic{
+    background-size: cover;
+}
