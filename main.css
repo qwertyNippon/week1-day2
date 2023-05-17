@@ -33,6 +33,12 @@
 .month{
     border: 2px;
 }
+
+.pic{
+    max-width: 100%;
+    height: auto;
+}
+
 .button{
     background-color: yellow;
     padding: 5px;
