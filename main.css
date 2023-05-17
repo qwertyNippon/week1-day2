@@ -39,6 +39,11 @@
     height: auto;
 }
 
+.content{
+    display: flex;
+    flex-flow: column;
+}
+
 .button{
     background-color: yellow;
     padding: 5px;
