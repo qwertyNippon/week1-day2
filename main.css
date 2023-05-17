@@ -30,6 +30,10 @@
     height: auto;
 }
 
+.month{
+    border: 2px;
+}
 .button{
     background-color: yellow;
+    border-radius: 5px;
 }
