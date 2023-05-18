@@ -45,3 +45,8 @@
     background-color: yellow;
     padding: 5px;
 }
+
+.pad{
+    padding-left: 50px;
+    padding-right: 50px;
+}
